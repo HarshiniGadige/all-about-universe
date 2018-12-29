@@ -1,0 +1,25 @@
+{
+  "name": "all-about-universe",
+  "version": "1.0.0",
+  "description": "A quiz/info webpage on our solar system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avinashsp93/hungry-turtle-code.git"
+  },
+  "author": "Avinash Prabhakar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avinashsp93/hungry-turtle-code/issues"
+  },
+  "homepage": "https://github.com/avinashsp93/hungry-turtle-code#readme",
+  "dependencies": {
+    "angular": "^1.6.4",
+    "bootstrap": "^3.3.5",
+    "font-awesome": "^4.2.0",
+    "jquery": "^3.2.1"
+  }
+}
